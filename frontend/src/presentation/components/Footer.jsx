@@ -38,11 +38,7 @@ export default function Footer() {
                 Mis Aplicaciones
               </Link>
             </li>
-            <li>
-              <Link to="/profile" className="hover:text-white transition">
-                Perfil
-              </Link>
-            </li>
+            
           </ul>
         </div>
 

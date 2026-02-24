@@ -83,7 +83,7 @@ export default function Login() {
         )}
 
         <p className="text-sm text-center mt-6">
-          ¿Se te olvidó la contraseña?{" "}
+          ¿Olvidaste tu contraseña?{" "}
           <Link
             to="/forgot-password"
             className="text-blue-600 font-semibold hover:underline"
